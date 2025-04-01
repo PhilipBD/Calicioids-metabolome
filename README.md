@@ -20,6 +20,14 @@ If you are interested in accessing raw data, please refer to:
 
 **fungi_taxa.csv** = Taxonomic information corresponding to each fungal ASV
 
+**lichens_substances_codes** = Relative ion intensity of lichen substances in studies specied and genera, with classes of intensity (Fig S4a)
+
+**lichens_substances_intensity** = Relative ion intensity of lichen substances in studied species and genera, raw intensity values
+
+**lichens_substances_original** = Relative ion intensity of lichen substances in all samples, raw intensity values
+
+**lichens_substances_presence** = Percentage of samples in which lichen substances were detected (Fig S4b)
+
 **metabolome_abundance.csv** = Normalized fungi abundance values per sample used to compile richness and diversity
 
 **metabolome_phyloseq_import.csv** = This is basically the MzMine2 quantification table formatted for uploading into a phyloseq object
